@@ -1,0 +1,4 @@
+dist
+var
+node_modules
+.env
