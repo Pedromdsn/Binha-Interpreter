@@ -4,7 +4,7 @@ An implementation made in my beloved [Typescript](https://www.typescriptlang.org
 
 Using my new friend fresh out of the oven, [BunJS](https://bun.sh/) <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" height="16" /> creating the binha (bun + rinha). 
 
-O projeto é para focar mais no bun em si e deixa-lo "se virar", o projeto foi mantido o mais basico possivel, apesar disso se os testes conterem apenas funções puras, tem a minha carta secreta.
+The project is to focus more on the bun itself and let it "drive itself", the project was kept as basic as possible, despite this, if the tests contain only pure functions, you have my secret letter.
 
 ![Alt text](misc/performace.png)
 
