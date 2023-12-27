@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "start": "bun run --target=\"bun\" dist/index.js",
-    "build": "bun build --outdir=dist --target=\"bun\" src/index.ts"
+    "start": "bun run --target=\"bun\" src/index.ts"
   },
   "dependencies": {
   },
